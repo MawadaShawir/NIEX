@@ -2,7 +2,7 @@ import "./App.css";
 import NavBar from "./components/NavBar";
 import HeroSection from "./components/HeroSection";
 import { partnersLogo } from "./data/partners";
-import Slider from "./components/slider";
+import Slider from "./components/Slider";
 import RoadMapSection from "./components/RoadMapSection";
 import FeaturesSection from "./components/FeaturesSection";
 import TestimonialsSection from "./components/TestimonialsSection";
